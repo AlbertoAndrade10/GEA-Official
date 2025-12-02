@@ -1,6 +1,11 @@
 ## Getting Started
 
-First, intall dependencies
+First, clone repository
+```bash
+git clone https://github.com/AlbertoAndrade10/GEA-Official
+```
+
+Intall dependencies
 ```bash
 npm install
 # or
@@ -11,7 +16,7 @@ pnpm install
 bun install
 ```
 
-run the development server:
+Run the development server:
 
 ```bash
 npm run dev
@@ -22,4 +27,5 @@ pnpm dev
 # or
 bun dev
 ```
+
 
